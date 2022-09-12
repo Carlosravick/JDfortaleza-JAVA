@@ -1,0 +1,30 @@
+
+
+
+package Qts4;
+
+import java.util.Scanner;
+
+
+public class Media {
+
+	public static void main(String[] args) {
+	
+
+	
+	for (float i = 1 ; i <= 4 ; i++) {
+		
+		System.out.println("Digite um valor");
+		Scanner input1 = new Scanner(System.in);
+		float n1 = input1.nextFloat();	
+		
+		float n1 = n1 / 4
+		
+	}
+	
+	
+
+
+}
+}
+

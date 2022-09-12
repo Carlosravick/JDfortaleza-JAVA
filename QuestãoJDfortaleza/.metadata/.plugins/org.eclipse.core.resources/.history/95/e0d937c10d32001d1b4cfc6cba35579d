@@ -1,0 +1,13 @@
+package questao5;
+
+import java.util.Scanner;
+
+public class Qs5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Digite o numero");
+		Scanner input1 = new Scanner(System.in);
+	}
+
+}
